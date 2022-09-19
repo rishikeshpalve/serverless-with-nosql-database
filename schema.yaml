@@ -1,12 +1,12 @@
 ## Copyright © 2021, Oracle and/or its affiliates. 
 ## All rights reserved. The Universal Permissive License (UPL), Version 1.0 as shown at http://oss.oracle.com/licenses/upl
 
-    title: "Discover Serverless Apps Using Oracle NoSQL Database Cloud Service"
-    description: "Learn and Discover why NoSQL Cloud Services and OCI native services are compelling"
+    title: "Discover Serverless Apps Using OCI Serverless Services"
+    description: "Baggage Tracking demo application using OCI serverless services"
     informationalText: "Modern apps benefit from predictable low latency, flexibility, and horizontal scale-out of NoSQL databases. Join us to learn how effortless it is to develop a modern app using Oracle Cloud Infrastructure and Oracle NoSQL Database Cloud Service. This lab is based on data from an airline baggage tracking app"
     instructions: "Please choose the region Phoenix and Choose "
     troubleshooting: "Need Help"
-    stackDescription: "Learn and Discover why NoSQL Cloud Services and OCI native services are compelling"
+    stackDescription: "Baggage Tracking demo application using OCI serverless services"
     schemaVersion: 1.1.0
     version: "20210101"
     locale: "en"

@@ -3,7 +3,7 @@ variable compartment_ocid {  }
 variable "tenancy_ocid" {}
 
 variable "ocir_repo_name" {
-  default = "demo-events"
+  default = "baggage-tracking-demo"
 }
 
 variable "always_free" {
